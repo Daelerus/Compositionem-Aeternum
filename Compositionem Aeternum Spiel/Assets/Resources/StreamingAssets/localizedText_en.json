@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "key": "start_button_menu",
+            "value": "Start Quiz"
+        },
+        {
+            "key": "settings_button_menu",
+            "value": "Settings"
+        },
+        {
+            "key": "settings_Text",
+            "value": "Settings"
+        },
+        {
+            "key": "settings_Age",
+            "value": "Age"
+        },
+        {
+            "key": "settings_Gender",
+            "value": "Gender"
+        },
+        {
+            "key": "settings_GermanLanguageLevel",
+            "value": "German Language Level"
+        },
+        {
+            "key": "settings_EnglishLanguageLevel",
+            "value": "English Language Level"
+        },
+        {
+            "key": "settings_HighestSchoolFinish",
+            "value": "Highest School Finish"
+        },
+        {
+            "key": "settings_SocialStandPlayer",
+            "value": "Social Stand"
+        },
+        {
+            "key": "settings_SocialStandParents",
+            "value": "Social Stand of Parents"
+        },
+        {
+            "key": "settings_Religion",
+            "value": "Religion"
+        },
+        {
+            "key": "settings_CountryOfOrigin",
+            "value": "Country of Origin"
+        }
+    ]
+}

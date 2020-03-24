@@ -1,0 +1,1312 @@
+{
+    "allRoundData": [
+        {
+            "name": "Test",
+            "timeLimitInSeconds": 300,
+            "pointsAddedForCorrectAnswer": 100,
+            "questions": [
+                {
+                    "questionID": 0,
+                    "questionText": "Hoch oben, in einem Käfig aus Metall überqueren Land, Meer und Berg. Wegen mir fühlt man Herz ,Schweiß und auch Übelkeit. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Flugangst",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Schlechtes Essen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Wut",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Kopfschmerzen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 1,
+                    "questionText": "Unter dem Begriff Rosenkrieg versteht man",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Einen äußerst Emotionalen Streit",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Eine Schlacht im Frühen Mittelalter",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Ein Buch",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Eine Marke",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 2,
+                    "questionText": "Viel gemein mit einem Nutztier und doch überquere ich auch schwierigstes Gelände. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Kuhhaut",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Schweinshaxen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Eselsbrücke",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Pferdehufe",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 3,
+                    "questionText": "Klein niedlich und wohlernährt beschreibe und von Erwachsenen genannt werde ich. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Welpe",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Fohlen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Wonneproppen",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Lämmchen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 4,
+                    "questionText": "Eine abenteuerlustige Person",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Reist viel",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Ist kampflustig",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Will viel erleben",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Liest viele Bücher",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 5,
+                    "questionText": "Eine Person, welche als Untermensch bezeichnet wird, ist nach ursprünglicher Definition",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "von 'minderer' Rasse",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "von 'minderem' Stand",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "von 'minderer' Genetik",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "von 'minderer' körperlichen Statur",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 6,
+                    "questionText": "Der Verzweifelte will mich, der Mächtige verteil micht, der Belegte hasst micht. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Geld",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Einfluss",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Gnadenfrist",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Aufgaben",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 7,
+                    "questionText": "Das Wort Lügenpresse wurde geprägt von",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Donald Trump",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Fritz Erkel Hoevels",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Hermann Göring",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Edward Snowden",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 8,
+                    "questionText": "Alle sind peinlich berührt, doch trotzdem heiter wegen mir. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Komiker",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Außenseiter",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Lachnummer",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Politiker",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 9,
+                    "questionText": "Schwach und feige mit einer dampfigen Art. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Dampfmaschine",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Heiße Quelle",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Warmduscher",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Öl",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 10,
+                    "questionText": "Unter einer Schnapsidee versteht man eine Idee welche",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "unter Alkoholeinfluss entstanden ist",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "welche mit Alkohol zu zun hat",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "vor Ausführung sinnvoller erschien als danach",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Schnaps benötigt",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 11,
+                    "questionText": "Zukunft, Vergangenheit und Gegenwart sind mein Weg und Menschen zieh ich mit. Doch bin ich nicht. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Prophezeiung",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Zeit",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Vorsehung",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Gravitation",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 12,
+                    "questionText": "Im Himmel herrsche ich, auf dem Boden sitze ich, in den Menschen wohne ich. Doch erreichbar bin ich nicht. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Gott",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Gravitation",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Luftschloss",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Gedanken",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 13,
+                    "questionText": "Ein Lagebericht ist gesetzlich eine notwendige Darstellung",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "eines Militärischer Berichts",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "einer Politischen Angelegenheit",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "des Geschäftverlaufs zur Lage eines Unternehmens",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "eines Entwicklungsverlaufs von Metropolen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 14,
+                    "questionText": "Jemand der nach Augenmaß arbeiten kann, ist in der Lage",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Ohne Maß zu arbeiten",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Ohne Augen zu messen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Mit Augen zu messen",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Nur mit Maß zu Arbeiten",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 15,
+                    "questionText": "Unter Fernweh versteht man das Gefühl",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Neues Erkunden zu wollen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Nicht Fern zu wollen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "In die Ferne zu wollen",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Nur bei bekanntem bleiben zu wollen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 16,
+                    "questionText": "Jemand der als Mauerblümchen betitelt wird ist",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Eine Sehr unschuldige Person",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Eine sehr verträumte Person",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Eine von anderen Geschlechtern nicht sehr beachtete Person",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Eine sehr zurückgezogene Person",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 17,
+                    "questionText": "Nullnummer ist der Begriff für",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Eine unfähige Person",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Schlechtes Abschneiden trotz Punktgewinn im Sport",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Ein entäuschendes Ergbnis welches sich nicht bezahlt macht",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Die Erste Nummer einer kostenpflichtigen Zeitschrift",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 18,
+                    "questionText": "Zu Großem bestimmt. Manchmal zu groß, manchmal zu schnell. All das beschreibe ich. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Motivation",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Ambition",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Übereifer",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Wille",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 19,
+                    "questionText": "Die Geschwindigkeitsbegrenzung regelt, wie schnell man",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Fahren darf",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Fahren muss",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Fahren sollte",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Fahren kann",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 20,
+                    "questionText": "Bilder im Auge, Bilder im Kopf. Bild zu Video kann ich auch. Was bin ich? ",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Kamera",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Gehirn",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Kopfkino",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Bildschirm",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 21,
+                    "questionText": "Des einen Unglück ist des anderens Freud. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Lachnummer",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Nullnummer",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Schadenfreude",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Gnadenfrist",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 22,
+                    "questionText": "Ein Ziel an sich selbst braucht man um mich zu erreichen, aber auch eine Berufung und Freude. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Luftschloss",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Erfolg",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Selbstverwirklichung",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Beförderung",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 23,
+                    "questionText": "Wenn eine Person einen Hungerlohn erhält",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Ist das Essensgeld",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Ist das Lohn mit dem sich ohne Hunger leben lässt",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Muss die Person sich sorgen um ihr Überleben machen",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Bekommt die Person eine Freiwillige Zahlung",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 24,
+                    "questionText": "Unter einem Interessenskonflikt versteht man einen Konflikt bei dem",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Personen die gleichen Interessen haben",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Personen die entgegengesetzten Interessen haben",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Personen ihre Interessen wahren wollen",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Personen aus nicht vertraglichen, gesetzlichen oder moralischen Gründen ein Problem mit den Interessen haben",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 25,
+                    "questionText": "Die Amsel ist ebenfalls der Namensträger für",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Eine Bergkette",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Eine Zeitschrift",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Ein Militärflugzeug",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Ein Technikprodukt",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 26,
+                    "questionText": "Seit Jahren beschütze ich, in rot und schwarz. Mit meinem Säbel salutiere ich. Blauem Blut gehorche ich. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Blackbird",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Robin",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Beefeater",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "James Bond",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 27,
+                    "questionText": "Der Begriff Schweinefutter wird im Englischen auch verwendet für ",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Ungenießbares Essen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Fettreiches Essen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Unsinn",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Notwendigkeit",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 28,
+                    "questionText": "In Neuseeland und Australien dient der Begriff 'Trottel' auch für",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Geringe Intelligenz",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Kreative Personen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Wahnsinn",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Tollpatsche",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 29,
+                    "questionText": "In Liebe geschmieded, am Altar gehärtet, und durch das Wort verbunden. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Ritual",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Ring",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Ehe",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Magie",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 30,
+                    "questionText": "Unter Syzygie versteht man",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Eine Mathematsiche Funktion",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Eine Biologische Definition",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Eine spezielle Stellung von Himmelskörpern",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Eine Chemische Reaktion",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 31,
+                    "questionText": "Tmesis in der Sprachwissenschaft ist der Begriff für",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Eine besondere Satzkonstruktion",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Wichtige Betonungen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Das trennen zusammengehörender Wortteile",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Altertümliche Bezeichnungen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 32,
+                    "questionText": "Hydroxyzin ist ein Arzneistoff zur Angstlösung. Zudem wird er auch verwendet für",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Sedativa",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Schmerzmittel",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Antiallergika",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Tee",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 33,
+                    "questionText": "Beschreiben als die Blühte eines Tieres, wer durch mich beschrieben wird, hat eine unglückliche Situation vor sich. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Blackbird",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Eselsbrücke",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Sündenbock",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Ohrwurm",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 34,
+                    "questionText": "Ist alles durcheinander so verwendet man mich. Doch meist nur im Gespräch. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Rosenkrieg",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Luftschloss",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Kuddelmuddel",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Schnapsidee",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 35,
+                    "questionText": "Der englische Begriff 'Piecemeal' beschreibt welche Vorgehensweise",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Alles auf einmal",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Hälfte - Hälfte",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Stück für Stück",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Iteratives Planen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 36,
+                    "questionText": "Kurz bin ich, erzählt werde ich,mit Worten spiele ich und Humor habe ich. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Grawlix",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Syzygy",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Feghoot",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Tmesis",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 37,
+                    "questionText": "Der Begriff 'Grawlix' wird verwendet um welche Symbolfolgen in Comics zu beschreiben",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "?!",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "°^°",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "@#$%&",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "'o'",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 38,
+                    "questionText": "Unter einem Ohrwurm versteht man",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "einen Wurm im Ohr",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Drang etwas anderes zu tun",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "ein Lied das man nicht mehr aus dem Kopf bekommt",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "einen Teil der Gehörorgans",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 39,
+                    "questionText": "Ein Pseudowort ist",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "ein Wort einer anderen Sprache mit Übersetzung",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "ein Wort einer anderen Sprache ohne Übersetzung",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "ein Wort ohne Bedeutung in Lexika",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "ein Wort mit anderer Bedeutung als es den Anschein hat",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 40,
+                    "questionText": "Aus Material wie Seide und doch so zerbrechlich wie Glas, ermögliche ich Reise und Gefängnis zwischen Kolben zugleich. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Eselsbrücke",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Luftschloss",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Spinnennetz",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Vorsehung",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 41,
+                    "questionText": "Die Ohrmarke bezeichnet im Englischen auch",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "ein Charakteristisches Merkmal einer Pflanze",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "eine Landmarkierung",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "die Intention etwas für einen bestimmten Zweck zu nutzen",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "eine Steuerklausel",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 42,
+                    "questionText": "Die Aubergine trägt ihren Englischen Namen 'Eggplant' da",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "der Name aus einer alten Sprache übernommen wurde",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Tiere sie wie Eier hüten",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "sie in weiß wie ein Ei aussieht",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "sie einen ähnlichen Geschmack haben",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 43,
+                    "questionText": "Eine Person mit Kleptomanie hat ein Wahnhaftes verlangen ",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "kreativ zu sein",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "sich zu prüglen",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "zu stehlen",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "zu singen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 44,
+                    "questionText": "Die Himbeere verdankt ihren Englischen Namen 'Raspberry' ",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "einer Kugel",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "einem Tier",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "einer Reibe",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "der Benennung nach einer bekannten Person",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 45,
+                    "questionText": "Nachrichten sind mein Geschäft, meist jedoch nichts guts. Auch der Untergang als Geschäft ist mir nicht fremd. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Postbote",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Zeitung",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Vorbote",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Fernseher",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 46,
+                    "questionText": "Mit einem Donner und Verwirrung kündige ich mich an. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Flinte",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Gewehr",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Donnerbüchse",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Pistole",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 47,
+                    "questionText": "Eine hartnäckige Person kann nach dem englischen Begriff für hartnäckig auch",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "einfühlsam sein",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "verständnisvoll sein",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "stur sein",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "kaltherzig sein",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 48,
+                    "questionText": "Der Freund von Sammlern der Feind von Unternehmen. Durch Altern entstehe ich. Was bin ich?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Rabatte",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Rarität",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Obsoleszenz",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Kosten",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 49,
+                    "questionText": "Ein 'Polyglot' ist eine Persone die",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "mehrere Jobs hat",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "mehrere Beziehungen hat",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "mehrere Sprachen beherrscht",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "mehrere Persöhnlichkeiten hat",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ],
+            "timeRemaining": 0
+        }
+    ]
+}

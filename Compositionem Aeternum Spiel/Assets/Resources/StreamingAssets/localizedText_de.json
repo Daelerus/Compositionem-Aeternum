@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "key": "start_button_menu",
+            "value": "Quiz starten"
+        },
+        {
+            "key": "settings_button_menu",
+            "value": "Einstellungen"
+        },
+        {
+            "key": "settings_Text",
+            "value": "Einstellungen"
+        },
+        {
+            "key": "settings_Age",
+            "value": "Alter"
+        },
+        {
+            "key": "settings_Gender",
+            "value": "Geschlecht"
+        },
+        {
+            "key": "settings_GermanLanguageLevel",
+            "value": "Sprachniveau Deutsch"
+        },
+        {
+            "key": "settings_EnglishLanguageLevel",
+            "value": "Sprachniveau Englisch"
+        },
+        {
+            "key": "settings_HighestSchoolFinish",
+            "value": "Höchster Schulabschluss"
+        },
+        {
+            "key": "settings_SocialStandPlayer",
+            "value": "Sozialer Stand"
+        },
+        {
+            "key": "settings_SocialStandParents",
+            "value": "Sozialer Stand der Eltern"
+        },
+        {
+            "key": "settings_Religion",
+            "value": "Religion"
+        },
+        {
+            "key": "settings_CountryOfOrigin",
+            "value": "Herkunftsland"
+        }
+    ]
+}

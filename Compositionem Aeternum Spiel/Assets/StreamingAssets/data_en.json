@@ -1,0 +1,1312 @@
+{
+    "allRoundData": [
+        {
+            "name": "Test",
+            "timeLimitInSeconds": 300,
+            "pointsAddedForCorrectAnswer": 100,
+            "questions": [
+                {
+                    "questionID": 0,
+                    "questionText": "High in the Sky, in a Cage of Metal, Passing over Land, Sea and Mountains. I make you feel your heart beat and also nausea. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Fear of Flying",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Bad Food",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Rage",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Headache",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 1,
+                    "questionText": "The war of roses in Germany is also a term for",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "A very emotional quarrel",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "A Battle in the early Medieaval",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "A book",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "A brand",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 2,
+                    "questionText": "In German, I have alot in common with Livestock, and yet I cross even dangerous terrain. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "airplane",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "toolbox",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "aide-memory",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "safety-measure",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 3,
+                    "questionText": "I am small cute and often a bit chubby. Usually I am called by adults. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "puppy",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "foal",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "bundle of joy",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "little lamb",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 4,
+                    "questionText": "An adventure seeker wants to",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "fight",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "travel",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "experience new things",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "read books",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 5,
+                    "questionText": "A subhuman per original definition is from",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "an inferior race",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "inferior standing",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "inferior genetics",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "inferior body condition",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 6,
+                    "questionText": "The desperate wants me, the powerful allocates me, the Allocated hates me. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "money",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "influence",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "period of grace",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "tasks",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 7,
+                    "questionText": "The word lying press was characterised by",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Donald Trump",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Fritz Erkel Hoevels",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Hermann Göring",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Edward Snowden",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 8,
+                    "questionText": "Indignant and cheerful because of me. What am I? A",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "comedian",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "misfit",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "laughingstock",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "politican",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 9,
+                    "questionText": "Weak and a scaredy cat. Yet I have in german steam to me. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "steammachine",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "hotspring",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Wimp",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "oil",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 10,
+                    "questionText": "The German word 'Schnapsidee' is an idea which",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "came to be because of alcohol",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "involves alcohol",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "seemed better than it actually was",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "requires liquor",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 11,
+                    "questionText": "Future, Past and Present are all my Path and humans get dragged along. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "prophecy",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "time",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "destiny",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "gravity",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 12,
+                    "questionText": "The heavens I rule, on the ground I rest, in humans I reside. Yet I'm unreachable. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "god",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "gravity",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "daydream",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "thoughts",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 13,
+                    "questionText": "In Germany a Situation Report is a legal required display of",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "a military report",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "a political situation",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "An review of economic situation of a company",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "a review of the growth of a metropolis",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 14,
+                    "questionText": "Someone with visual judgement is capable of",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Working without measures",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Measuring without looking",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Measuring with their eyes",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "only working with measures",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 15,
+                    "questionText": "Wanderlust describes the feeling",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Traveling to nearby places",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Experience new things",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Of traveling to a far place",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Not wanting to experience new things",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 16,
+                    "questionText": "A wallflower in the german language also describes a person that",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "is innocent",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "is delusional",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "isn't attractive to other genders",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "keeps to it self",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 17,
+                    "questionText": "The german word 'Nullnummer' describes",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "An incapable person",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Bad performence in sports",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "A pointless situation",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "The first print of a paid magazine",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 18,
+                    "questionText": "Meant for greatness. Sometimes too big, sometimes too fast. All described by me. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Motivation",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Ambition",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Overeagerness",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Willpower",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 19,
+                    "questionText": "The driving speed limitation in germany is supposed to show how fast you",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "are allowed to drive",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "have to drive",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "should drive",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Could drive",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 20,
+                    "questionText": "Pictures in the eye, Picture in the head. Picture to Video is no big thing. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Camera",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Brain",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Inner Cinema",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Screen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 21,
+                    "questionText": "One man's pain is another man's pleasure. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Laughingstock",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Nullnummer",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Gloating",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "period of grace",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 22,
+                    "questionText": "To reach me one needs a goal, passion and happiness. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "daydream",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "success",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "self-fulfillment",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "promotion",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 23,
+                    "questionText": "Someone who earns a pittance",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "gets lunchmoney",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "doesn't need to fear for starving",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "is in existencial trouble",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "gets voluntary payment",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 24,
+                    "questionText": "In a conflict of interests two or more people",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Have the same interests",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Have opposite interests",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Want to maintain their interests",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Have a non contractral, law based or moral based problem with someone else's interests",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 25,
+                    "questionText": "The blackbird also is the name for",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "A mountainrange",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "A newspaper",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "A military plane",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "A tech product",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 26,
+                    "questionText": "For years I protected, in Red and Black. With my saber I salute. Royal Blood I serve. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Blackbird",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Robin",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Beefeater",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "James Bond",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 27,
+                    "questionText": "Hogwash not only descirbes Pig food but also",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Inedible Food",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Food that is rich in fat",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Nonsense",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Necessity",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 28,
+                    "questionText": "Dingbat not only can be used to describe an idiot but also",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Low intelligence",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Creative people",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Madness",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "A Klutz",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 29,
+                    "questionText": "Forged in Love, Hardnend at the Altar and connected by the word. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Ritual",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Ring",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Wedlock",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Magic",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 30,
+                    "questionText": "The word Syzygy describes a",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Math Function",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Biologic Definition",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Special Astronomical Formation",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Chemic Reaction",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 31,
+                    "questionText": "Tmesis is the Lingusitical Term for",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "A special sentence structure",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Important Pronounciation",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Seperation of compound words",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Outdated Words",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 32,
+                    "questionText": "Hydroxyzine is used for treating anxiety. Outside of that it is also used for",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Sedatives",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Pain Killers",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Anti Allergics",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Tea",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 33,
+                    "questionText": "I am the blossom of an animal. Those described with me, will face trouble. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Blackbird",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Hogwash",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Scapegoat",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Ohrwurm",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 34,
+                    "questionText": "Is everything a mess, I get used. Usually just in speech. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "War of Roses",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Daydream",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Hodgepodge",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Schnapsidee",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 35,
+                    "questionText": "The word Piecemeal describes which approach",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "All at once",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Half - Half",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Piece by Piece",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Iterative Planning",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 36,
+                    "questionText": "Short told I am, with Punchline and humor. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Grawlix",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Syzygy",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Feghoot",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Tmesis",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 37,
+                    "questionText": "Grawlix is used to describe which of the following symbol combinations in comics",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "?!",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "°^°",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "@#$%&",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "'o'",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 38,
+                    "questionText": "The german word 'Ohrwurm' describes",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "a worm in the ear",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "urge to do something else",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "a catchy song",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "a part of the hearing organism",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 39,
+                    "questionText": "A pseudoword is",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "A word of another language with translation",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "A word of another language without translation",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "A word without any dicitonary-entry",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "A word with a differnt meaning than it seems",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 40,
+                    "questionText": "Like silk and yet as fragile as glas. I allow travel but also am a prison between cobs. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Dingbat",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Daydream",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Cobweb",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Destiny",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 41,
+                    "questionText": "The word earmark can be used to describe",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "a characteristic of a plant",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "a landmark",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "The intention to use something for a specific purpose",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "a term based on taxes",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 42,
+                    "questionText": "The Eggplant got name because",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Of an old language",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Animals safeguard them like eggs",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "In white it looks like a hen's egg",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "they taste like eggs",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 43,
+                    "questionText": "A Kleptomaniac has the urge to",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "brawl",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "be creative",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "steal",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "sing",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 44,
+                    "questionText": "The Raspberry got is name because ",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "of an orb",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "of an animal",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "of the resemblence of being rasped",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "it got named after a famous person",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 45,
+                    "questionText": "New are my business, though often it's not good news. Even doom is my business. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Postman",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Newspaper",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Harbinger",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "TV",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 46,
+                    "questionText": "With Thunder and Confusion I announce myself. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Flintlock",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Rifle",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Blunderbuss",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Pistol",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 47,
+                    "questionText": "A tenacious person usually is also",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "stubborn",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "empathic",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "understanding",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "cold hearted",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 48,
+                    "questionText": "The friend of hoarders and the enemy of Companies. The passing of time creates me. What am I?",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Discount",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "Rareity",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Obsolesence",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "Costs",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "questionID": 49,
+                    "questionText": "A Polyglot is someone who",
+                    "answers": [
+                        {
+                            "answerID": 0,
+                            "answerText": "Has multiple jobs",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 1,
+                            "answerText": "has multiple relationships",
+                            "isCorrect": false
+                        },
+                        {
+                            "answerID": 2,
+                            "answerText": "Can speak multiple languages",
+                            "isCorrect": true
+                        },
+                        {
+                            "answerID": 3,
+                            "answerText": "has mulitple personalities",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ],
+            "timeRemaining": 0
+        }
+    ]
+}
